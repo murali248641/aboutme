@@ -70,16 +70,15 @@ nav ul li a:hover {
     justify-content: center;
     text-align: center;
     background: #f4f4f4;
-    min-height: 80vh;
     padding: 60px 10%;
 }
 
 .about-container {
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    width: 100%;
-    max-width: 1200px;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
 }
 
 /* Profile Image */
